@@ -1,8 +1,6 @@
 # Label Efficient and Personalized Arrhythmia Diagnosis via Diffusion Models
 
-To run the training and testing, you should download the dataset first from the google drive link:
-
-
+To run the training and testing, you should download the dataset first by clicking [here](https://drive.google.com/file/d/1Btd4Pnnu3dbRu6WCsOpJbauLtJV3PdnW/view?usp=sharing)
 
 After unzip the `Data.zip`, you wil get a `Data` fold with structure shown as follow:
 
@@ -43,6 +41,6 @@ Pre-trained models are also provided, to conduct test with the pre-trained model
 bash ./run.sh <method> <task>
 ```
 
-`<method>` can be selected in `eff`, `moco`, and `diffECG`.
+`<method>` can be selected in `eff`, `moco`, and `diffEcg`.
 
 `<task>` can be selected in `generalization` and `personalization`.
