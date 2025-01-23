@@ -1,4 +1,4 @@
-# Label Efficient and Personalized Arrhythmia Diagnosis via Diffusion Models
+# DiffECG: Diffusion Model-Powered Label-Efficient and Personalized Arrhythmia Diagnosis
 
 To run the training and testing, you should download the dataset first by clicking [here](https://drive.google.com/file/d/1Btd4Pnnu3dbRu6WCsOpJbauLtJV3PdnW/view?usp=sharing)
 
